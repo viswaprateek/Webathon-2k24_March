@@ -20,7 +20,7 @@ function Navbar() {
        <FaArtstation/>
     <NavLink className="navbar-brand fs-4" style={({ isActive }) => {
                     return isActive ? activeLink : null;
-                  }} to="/">Home</NavLink>
+                  }} to="/">Financial-Edu</NavLink>
     <button className="navbar-toggler" type="button"
      data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

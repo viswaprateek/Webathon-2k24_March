@@ -1,6 +1,6 @@
 .cus{
  
-    font-family: Brush Script MT;
+    /* font-family: Brush Script MT; */
     background-color: #ffffff;
     padding:1rem;
     overflow: hidden;
@@ -19,7 +19,7 @@
   position: relative;
 }
 .nav-link::after{
-  content: ''
+  content: '';
   opacity: 0;
   transition: all 0.2s;
   height: 2px;
