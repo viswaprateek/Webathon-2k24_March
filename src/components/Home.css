@@ -2,7 +2,9 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    background-color: rgb(201, 230, 241);
   }
+  
   
   .card-container {
     display: flex;
@@ -12,7 +14,7 @@
   }
   
   .card {
-    background-color: #f4f4f4;
+    background-color:#64d3ec;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -30,10 +32,11 @@
   .card a {
     display: inline-block;
     padding: 8px 16px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #044865;
+    color: #f9f7f7;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius:4px;
+    border: #000000 solid 1px;
   }
   
   footer {
